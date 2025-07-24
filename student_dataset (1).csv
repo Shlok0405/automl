@@ -1,0 +1,11 @@
+StudentID,Gender,StudyHours,Attendance,PreviousGrade,FinalGrade,Passed
+101,Male,10,85,65,70,1
+102,Female,15,95,78,82,1
+103,Male,7,70,55,60,0
+104,Female,20,98,88,90,1
+105,Male,5,65,50,55,0
+106,Female,25,100,90,95,1
+107,Male,8,75,60,65,0
+108,Female,18,92,85,88,1
+109,Female,22,97,89,93,1
+110,Male,6,60,52,58,0
